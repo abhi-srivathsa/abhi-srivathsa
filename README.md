@@ -1,15 +1,15 @@
 # Hi, I'm Abhilash Harish Srivathsa 👋
 
-**Software Engineer II @ Okta** | Infrastructure Team | San Francisco, CA
+**Senior Software Engineer @ CodeRabbit** | Applied AI Team | San Francisco, CA
 
-I'm a software engineer passionate about building scalable infrastructure, developer tooling, and cloud-native systems. Currently working on GCP-based infrastructure at Okta, with experience across Java, Go, Python, Kubernetes, and CI/CD automation.
+I'm a software engineer passionate about AI-powered developer tools, agentic systems, and building great developer experiences. Currently working on agentic AI and AI code review at CodeRabbit, with a background in cloud infrastructure, distributed systems, and full-stack development.
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages:** Java · Go · Python · JavaScript · SQL
-**Cloud & Infra:** GCP · AWS · Kubernetes · Docker · Terraform
+**Languages:** TypeScript · Java · Go · Python · JavaScript · SQL
+**AI & Infra:** Agentic AI · LLMs · GCP · AWS · Kubernetes · Docker · Terraform
 **Frameworks & Tools:** React Native · Firebase · Cobra CLI · Spring
 **Practices:** CI/CD · Agile · Microservices · Distributed Systems
 
@@ -17,7 +17,13 @@ I'm a software engineer passionate about building scalable infrastructure, devel
 
 ## 💼 Experience
 
-**Software Engineer II — Okta** *(2023–Present)*
+**Senior Software Engineer — CodeRabbit** *(Jan 2026–Present)*
+Applied AI Team | San Francisco, CA
+- Building agentic AI systems for automated code review
+- Working on AI-powered developer tooling in TypeScript
+- Developing intelligent review workflows to improve code quality at scale
+
+**Software Engineer II — Okta** *(2023–2026)*
 Infrastructure Team | San Francisco, CA
 - Built Java-based tools to manage core services, reducing manual tasks by 80%
 - Designed scalable infrastructure on GCP, cutting operational costs by 20%
